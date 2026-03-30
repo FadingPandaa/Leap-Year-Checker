@@ -52,5 +52,3 @@ The program currently uses the following logic:
 Note: This version uses a simplified leap year rule. 
 For full Gregorian accuracy, conditions for century 
 years (divisible by 100 and 400) should be considered.
-
-============================================================
