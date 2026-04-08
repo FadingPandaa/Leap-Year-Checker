@@ -6,13 +6,7 @@ Software used: Apache NetBeans IDE 22
 
 --------------------------------------------------------------------------------------------------------------------
 
-1. DESCRIPTION
---------------
-This is a simple Java-based console application designed to 
-determine if a given year is a leap year or a normal year 
-based on basic divisibility rules.
-
-2. PROJECT STRUCTURE
+1. PROJECT STRUCTURE
 --------------------
 The project is contained within the 'com.mycompany.ifelse' 
 package and consists of two main files:
@@ -26,14 +20,14 @@ package and consists of two main files:
   handling via the Scanner class and the conditional 
   if-else logic.
 
-3. FEATURES
+2. FEATURES
 -----------
 * Interactive console input.
 * Mathematical calculation using the modulo (%) operator 
   to check for divisibility by 4.
 * Instant feedback to the user on the year type.
 
-4. HOW TO RUN
+3. HOW TO RUN
 -------------
 1. Compile the source files using a Java compiler:
    javac com/mycompany/ifelse/*.java
@@ -43,7 +37,7 @@ package and consists of two main files:
 
 3. Follow the on-screen prompt to enter a year.
 
-5. LOGIC OVERVIEW
+4. LOGIC OVERVIEW
 -----------------
 The program currently uses the following logic:
 - If (year % 4 == 0) -> Output: "Leap Year"
