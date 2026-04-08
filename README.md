@@ -5,7 +5,7 @@ Software used: Apache NetBeans IDE 22
 --------------------------------------------------------------------------------------------------------------------
 
 1. PROJECT STRUCTURE
---------------------
+
 The project is contained within the 'com.mycompany.ifelse' 
 package and consists of two main files:
 
@@ -18,15 +18,17 @@ package and consists of two main files:
   handling via the Scanner class and the conditional 
   if-else logic.
 
+------------------------------------------------------------------------------------------------------------
 2. FEATURES
------------
+
 * Interactive console input.
 * Mathematical calculation using the modulo (%) operator 
   to check for divisibility by 4.
 * Instant feedback to the user on the year type.
 
+------------------------------------------------------------------------------------------------------------
 3. HOW TO RUN
--------------
+
 1. Compile the source files using a Java compiler:
    javac com/mycompany/ifelse/*.java
 
@@ -35,8 +37,9 @@ package and consists of two main files:
 
 3. Follow the on-screen prompt to enter a year.
 
+-----------------------------------------------------------------------------------------------------------
 4. LOGIC OVERVIEW
------------------
+
 The program currently uses the following logic:
 - If (year % 4 == 0) -> Output: "Leap Year"
 - Else -> Output: "Normal Year"
