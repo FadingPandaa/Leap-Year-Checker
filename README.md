@@ -1,7 +1,4 @@
-👨‍💻 Author:
-
-Keabetswe Masole
-
+👨‍💻 Author: Keabetswe Masole
 Software used: Apache NetBeans IDE 22
 
 --------------------------------------------------------------------------------------------------------------------
